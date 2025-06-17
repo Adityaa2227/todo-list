@@ -35,9 +35,6 @@ A simple and intuitive Todo List application built using **HTML**, **CSS**, and 
 └── app.js # JavaScript logic
 
 
-bash
-Copy
-Edit
 
 ## ⚙️ How to Run Locally
 
@@ -48,18 +45,19 @@ Edit
 
   ```bash
   cd todo-list-app
-```
+  ```
 
 3. Open index.html in your browser.
 
-🧠 Learnings
+## 🧠 Learnings
+
 DOM Manipulation
 
 Event Handling in JavaScript
 
 Creating and removing elements dynamically
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 Add checkbox to mark tasks as completed
 
 Save tasks in localStorage
@@ -68,10 +66,10 @@ Add task deadlines and priority levels
 
 Improve UI with animations and better styling
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Made with ❤️ by Aditya
 
 
