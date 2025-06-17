@@ -27,9 +27,13 @@ A simple and intuitive Todo List application built using **HTML**, **CSS**, and 
 ## 📂 Project Structure
 
 📁 todo-list-app
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling file
+
 └── app.js # JavaScript logic
+
 
 bash
 Copy
@@ -40,13 +44,13 @@ Edit
 1. Clone the repository:
    ```bash
    git clone https://github.com/Adityaa2227/todo-list-app.git
-Navigate into the project folder:
+2. Navigate into the project folder:
 
-bash
-Copy
-Edit
-cd todo-list-app
-Open index.html in your browser.
+  ```bash
+  cd todo-list-app
+```
+
+3. Open index.html in your browser.
 
 🧠 Learnings
 DOM Manipulation
